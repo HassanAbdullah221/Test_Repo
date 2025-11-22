@@ -1,0 +1,180 @@
+1. What does Artificial Intelligence (AI) mean?
+A. The ability of humans to control machines
+B. The ability of a machine to learn and make predictions ✅
+C. The ability of a computer to break easily
+D. The ability of people to use computers
+
+2. AI can work with what types of data?
+A. Only structured data
+B. Only organized data
+C. Structured, semi-structured, or unstructured data ✅
+D. Data that is already analyzed
+
+3. Which is an example of structured data?
+A. A video file from YouTube
+B. A table of student grades in Excel ✅
+C. A voice message on a phone
+D. A picture from a camera
+
+4. Which is an example of unstructured data?
+A. A database of employee names
+B. A photo on social media ✅
+C. A list of numbers in Excel
+D. A table of sales reports
+
+5. What are the three main types of Machine Learning?
+A. Supervised, Unsupervised, and Reinforcement learning ✅
+B. Logical, Visual, and Predictive learning
+C. Fast, Slow, and Deep learning
+D. Simple, Complex, and Advanced learning
+
+6. In supervised learning, the machine learns using:
+A. Data without answers
+B. Data with correct answers ✅
+C. Only images
+D. Random data
+
+7. In unsupervised learning, the machine learns using:
+A. Data with labels
+B. Data without labels ✅
+C. Data from humans
+D. Only numbers
+
+8. Reinforcement learning means:
+A. Learning from rewards and punishments ✅
+B. Learning only from books
+C. Copying human actions directly
+D. Using data without feedback
+
+9. What does Narrow AI mean?
+A. AI that can do many different tasks
+B. AI that focuses on one specific task ✅
+C. AI that thinks like a human in all ways
+D. AI that controls other machines
+
+10. What does General AI mean?
+A. AI that can understand and learn any task like a human ✅
+B. AI that only plays games
+C. AI used only in factories
+D. AI that works without data
+
+
+11. What does Broad AI mean?
+A. AI that can handle more than one task but not all tasks ✅
+B. AI that never learns
+C. AI that is only used in robots
+D. AI that replaces humans
+
+12. Emotion detection in NLP means:
+A. Finding the color of pictures
+B. Understanding human feelings from text or speech ✅
+C. Counting the number of words
+D. Translating languages only
+
+13. Sentiment analysis in NLP means:
+A. Finding grammar mistakes in a text
+B. Understanding if a text shows positive, negative, or neutral feelings ✅
+C. Translating words into another language
+D. Counting the number of sentences
+
+14. Classification in AI means:
+A. Grouping data into different categories ✅
+B. Translating text into another language
+C. Making data larger
+D. Ignoring differences in data
+
+15. What is a Convolutional Neural Network (CNN) mainly used for?
+A. Analyzing images and recognizing patterns ✅
+B. Translating languages
+C. Managing databases
+D. Writing computer programs
+
+16. What is Computer Vision used for?
+A. Helping computers understand and analyze images or videos ✅
+B. Making computers write text
+C. Teaching computers how to speak
+D. Saving large amounts of data
+
+17. What is an appropriate use for chatbots?
+A. Helping customers with common questions ✅
+B. Doing complex surgery
+C. Building physical machines
+D. Making long business reports
+
+18. What is a limitation of chatbots?
+A. They cannot understand deep emotions or complex problems ✅
+B. They can think and feel like humans
+C. They can make final business decisions
+D. They can always give perfect answers
+
+19. How do chatbots use AI and NLP?
+A. To help them understand and respond to human language ✅
+B. To create new computer games
+C. To store large amounts of data
+D. To fix computer hardware
+
+20. What does a Decision Tree algorithm do?
+A. It makes decisions by following a series of yes/no questions ✅
+B. It draws pictures of trees
+C. It compares colors in images
+D. It counts the number of data points
+
+21. What is Linear Regression used for?
+A. To predict continuous values like prices or distances ✅
+B. To divide data into two groups
+C. To find missing words
+D. To create images
+
+22. What is Logistic Regression used for?
+A. To predict one of two outcomes, like yes/no or true/false ✅
+B. To predict long sentences
+C. To find missing words
+D. To create charts
+
+23. What does Generative AI do?
+A. It copies old data only
+B. It creates new and original content ✅
+C. It deletes unwanted data
+D. It translates languages only
+
+24. What can Generative AI create?
+A. Only numbers
+B. Text, images, music, or videos ✅
+C. Only computer code
+D. Only pictures of people
+
+25. How does Generative AI learn?
+A. By memorizing one example
+B. By learning patterns from large amounts of data ✅
+C. By guessing randomly
+D. By using only voice commands
+
+26. What makes Generative AI different from other AI types?
+A. It uses math only
+B. It creates new outputs, not just analyzes data ✅
+C. It only stores data
+D. It never changes
+
+27. Which is an example of Generative AI?
+A. A chatbot that writes a story ✅
+B. A calculator solving math
+C. A weather app
+D. A map finder
+
+28. Which algorithm is best for predicting a Yes/No result, like if a customer will buy a product?
+A. Decision Tree ✅
+B. Linear Regression
+C. Logistic Regression
+D. Convolutional Neural Network (CNN)
+
+29. A company wants to predict next month’s sales amount in dollars. Which algorithm is best?
+A. Decision Tree
+B. Linear Regression ✅
+C. Logistic Regression
+D. Generative AI
+
+30. A hospital wants to predict whether a patient has a disease (Yes/No). Which algorithm is best?
+A. Linear Regression
+B. Convolutional Neural Network (CNN)
+C. Logistic Regression ✅
+D. Generative AI
